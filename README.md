@@ -43,6 +43,10 @@ To run the JavaJack game on your local machine, you'll need a Java development e
 
 This will launch the game, and you can start playing Blackjack with the provided GUI.
 
+## Coming Soon
+
+Both the "Split" and "Double Down" features as seen in traditional Blackjack are currently in progress. Additionally, bug fixes and visual/aesthetic improvements to the UI are in progress along with visual cards.
+
 ## Feedback
 
 Feedback to this project is welcome. If you'd like to reccomend enhancements or bug fixes, email me at hillsam38@gmail.com concerning any bugs or other issues related to the game.
