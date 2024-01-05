@@ -49,7 +49,7 @@ Both the "Split" and "Double Down" features as seen in traditional Blackjack are
 
 ## Feedback
 
-Feedback to this project is welcome. If you'd like to recommend enhancements or bug fixes, email me at hillsam38@gmail.com concerning these issues or any other issues related to the game.
+Feedback to this project is welcome. If you'd like to recommend enhancements or bug fixes, email me at samhill7738@gmail.com concerning these issues or any other issues related to the game.
 
 ## License
 
